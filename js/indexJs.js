@@ -71,7 +71,7 @@
                     mobile: smobile,
                     email: semail,
 					date:'',
-					projectName:'NiralaEstate2'
+					projectName:'NiralaEstate3'
 
                 },
                 success: function (data) {
@@ -116,7 +116,7 @@
                     mobile: smobile,
                     email: semail,
 					date:'',
-					projectName:'NiralaEstate2'
+					projectName:'NiralaEstate3'
 
                 },
                 success: function (data) {
@@ -156,7 +156,7 @@
                     mobile: smobile,
                     email: semail,
 					date:'',
-					projectName:'NiralaEstate2'
+					projectName:'NiralaEstate3'
 
                 },
                 success: function () {
@@ -196,7 +196,7 @@
                     mobile: smobile,
                     email: semail,
 					date:'',
-					projectName:'NiralaEstate2'
+					projectName:'NiralaEstate3'
 
                 },
                 success: function () {
@@ -235,7 +235,7 @@
                     mobile: scontactPhone,
                     email: scontactEmail,
                     message: scontactMessage,
-                    projectName:'NiralaEstate2'
+                    projectName:'NiralaEstate3'
                 },
                 success: function () {
                       jQuery("#pageloader").fadeOut();
